@@ -29,7 +29,7 @@ int _tmain(int argc, char* argv[])
 
 	glutInit(&argc,argv);
 	glutInitDisplayMode( GLUT_DOUBLE | GLUT_RGB);
-	//glutInitContextVersion(1,1);
+	glutInitContextVersion(1,1);
 	glutInitWindowPosition(0,0);
 	glutInitWindowSize(800,600);
 
